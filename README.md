@@ -12,7 +12,7 @@ The Voyage Counter increases for each task completed and essentially denotes the
 - You will need a **keyboard** to play *E-Deck*.
 - You can either play the hosted version of the game [here](http://people.ucsc.edu/~kmccotte/edeck/).
 - Or you can fork, clone, or download a copy of the code and host it on your own webserver.
-- *To download this code as a zip, simply click the "Download ZIP" button in the lower righthand corner of this screen!*
+- *To download this code as a zip, simply click the "Download ZIP" button at the bottom of the right sidebar!*
 
 ### Controls ###
 - Use **WASD** or the **Arrow Keys** to move throughout the ship.
