@@ -18,6 +18,9 @@ The Voyage Counter increases for each task completed and essentially denotes the
 - Use **WASD** or the **Arrow Keys** to move throughout the ship.
 - Use the **Space Bar** or **E** to pick up a Core or interact with the ship's systems.
 - Pressing **F** drops a held core on the ground.
+- Pressing **M** will mute the music.
+- **Escape** will pause the game.
+
 
 ## Development ##
 This game was developed with ImpactJS.
