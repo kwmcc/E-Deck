@@ -8,19 +8,25 @@ If you strategize well, you can keep the ship running smoothly and un-exploded l
 ### The Goal ###
 The Voyage Counter increases for each task completed and essentially denotes the likelihood that the ship will complete its journey. When it reaches its maximum, the ship has cleared all obstacles and you win!
 
-## How To Play ##
+## CMPS 20 ##
 - You will need a **keyboard** to play *E-Deck*.
 - You can either play the hosted version of the game [here](http://people.ucsc.edu/~kmccotte/edeck/).
 - Or you can fork, clone, or download a copy of the code and host it on your own webserver.
 - *To download this code as a zip, simply click the "Download ZIP" button at the bottom of the right sidebar!*
 
-### Controls ###
-- Use **WASD** or the **Arrow Keys** to move throughout the ship.
-- Use the **Space Bar** or **E** to pick up a Core or interact with the ship's systems.
-- Pressing **F** drops a held core on the ground.
-- Pressing **M** will mute the music.
-- **Escape** will pause the game.
+## How To Play ##
+-Follow your Captain's Orders by bringing Fuel Cores to systems on the ship.
+-Cool systems down with Coolant Cores to prevent them from overheating.
+-You will have a certain amount of time to fulfill each order.
+-As you successfully execute orders, the "VOYAGE" counter will go up. The higher it is, the closer you are to winning. If it reaches 0, you fail. If you do not cool systems, they will also cause the Voyage counter to decrease.
 
+### Controls ###
+- Use **WASD** or the **Arrow Keys** to move around the ship.
+- Use the **Space Bar** to pick up a Core or interact with a System while standing over it.
+- Pressing **F** drops a held core on the ground.
+- **Tab** will "pause" the game and display the Captain's most recent order.
+- **I** brings up a reference for Systems and Cores.
+- Pressing **M** will mute the music.
 
 ## Development ##
 This game was developed with ImpactJS.
